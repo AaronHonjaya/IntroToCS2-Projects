@@ -1,5 +1,5 @@
 # IntroToCS2-Projects
-These are all the projects I completed in a Computer Science class I took at Bellevue College (equivalent to Intro to CS II at most colleges) in the winter quarter of 2023.
+These are all the projects I completed in a Computer Science class I took at Bellevue College (equivalent to the second/last introductory CS course II at most colleges) in the winter quarter of 2023.
 
 **Project 1** - The goal was to create a new class that extends the built in Random Class. It's purpose, according to our professor, was to have students use and learn about inheritance. 
 
